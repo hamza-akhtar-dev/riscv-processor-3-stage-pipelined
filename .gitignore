@@ -1,0 +1,9 @@
+work/
+build/
+transcript
+
+datamemory_out.txt
+instructions_out.txt
+registers_out.txt
+
+*.vcd
